@@ -1,0 +1,8 @@
+STFFA0   -160 -116	# BigProjectAlone
+STFFB0   -170 -97 	# BigProjectAlone
+STFFC0   -113 -80 	# BigProjectAlone
+STFFD0   93 -96 	# BigProjectAlone
+STFFE0   94 -97 	# BigProjectAlone
+STFFF0   90 -98 	# BigProjectAlone
+STFFG0   -171 -95 	# BigProjectAlone
+STFFH0   -57 -25 	# BigProjectAlone

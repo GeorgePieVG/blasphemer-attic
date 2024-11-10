@@ -1,0 +1,62 @@
+BEASA1  	28 64 # Scuba Steve
+BEASA2A8  	24 64 # Scuba Steve
+BEASA3A7  	24 64 # Scuba Steve
+BEASA4A6  	36 64 # Scuba Steve
+BEASA5  	28 64 # Scuba Steve
+BEASB1  	28 64 # Scuba Steve
+BEASB2E8	36 64 # Scuba Steve
+BEASB3E7  	36 64 # Scuba Steve
+BEASB4E6  	36 64 # Scuba Steve
+BEASB5  	28 64 # Scuba Steve
+BEASC1  	28 64 # Scuba Steve
+BEASC2F8  	36 64 # Scuba Steve
+BEASC3F7  	36 64 # Scuba Steve
+BEASC4F6  	36 64 # Scuba Steve
+BEASC5  	28 64 # Scuba Steve
+BEASD1  	28 64 # Scuba Steve
+BEASD2D8  	24 64 # Scuba Steve
+BEASD3D7  	24 64 # Scuba Steve
+BEASD4D6  	36 64 # Scuba Steve
+BEASD5  	28 64 # Scuba Steve
+BEASE1  	28 64 # Scuba Steve
+BEASE2B8  	36 64 # Scuba Steve
+BEASE3B7  	36 64 # Scuba Steve
+BEASE4B6  	36 64 # Scuba Steve
+BEASE5  	28 64 # Scuba Steve
+BEASF1  	28 64 # Scuba Steve
+BEASF2C8  	36 64 # Scuba Steve
+BEASF3C7  	36 64 # Scuba Steve
+BEASF4C6  	36 64 # Scuba Steve
+BEASF5  	28 64 # Scuba Steve
+BEASG1  	28 64 # Scuba Steve (FreeDoom)
+BEASG2G8  	24 64 # Scuba Steve (FreeDoom)
+BEASG3G7  	24 64 # Scuba Steve (FreeDoom)
+BEASG4G6  	36 64 # Scuba Steve (FreeDoom)
+BEASG5  	28 64 # Scuba Steve (FreeDoom)
+BEASH1  	28 64 # Scuba Steve (FreeDoom)
+BEASH2H8  	24 64 # Scuba Steve (FreeDoom)
+BEASH3H7  	24 64 # Scuba Steve (FreeDoom)
+BEASH4H6  	36 64 # Scuba Steve (FreeDoom)
+BEASH5  	28 64 # Scuba Steve (FreeDoom)
+BEASI1  	28 64 # Scuba Steve (FreeDoom)
+BEASI2I8  	24 64 # Scuba Steve (FreeDoom)
+BEASI3I7  	24 64 # Scuba Steve (FreeDoom)
+BEASI4I6  	36 64 # Scuba Steve (FreeDoom)
+BEASI5  	28 64 # Scuba Steve
+BEASJ0  	28 64 # Scuba Steve
+BEASK0  	33 56 # Scuba Steve
+BEASL0  	33 56 # Scuba Steve
+BEASM0  	33 56 # Scuba Steve
+BEASN0  	33 56 # Scuba Steve
+BEASO0  	33 56 # Scuba Steve
+BEASP0  	33 56 # Scuba Steve
+BEASQ0  	33 56 # Scuba Steve
+BEASR0  	33 56 # Scuba Steve
+BEASS0  	33 56 # Scuba Steve
+BEAST0  	33 56 # Scuba Steve
+BEASU0  	33 56 # Scuba Steve
+BEASV0  	33 56 # Scuba Steve
+BEASW0  	33 56 # Scuba Steve
+BEASX0  	33 56 # Scuba Steve
+BEASY0  	33 56 # Scuba Steve
+BEASZ0  	33 56 # Scuba Steve

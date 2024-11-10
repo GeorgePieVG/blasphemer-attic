@@ -1,0 +1,8 @@
+STFFA0	-223	-85	# All STFF* Sprites by Amuscaria_SwordStaff (recolored by Craneo)
+STFFB0	-130	3
+STFFC0	-60	-56
+STFFD0	-218	-77
+STFFE0	-218	-74
+STFFF0	-218	-74
+STFFG0	-130	3
+STFFH0	-60	-47
