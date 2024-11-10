@@ -1,0 +1,4 @@
+GWNDA0   -142 -126 # Clebardman
+GWNDB0   -142 -125 # Clebardman
+GWNDC0   -142 -119 # Clebardman
+GWNDD0   -142 -126 # Clebardman

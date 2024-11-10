@@ -1,0 +1,4 @@
+GWNDA0   -140 -96 # Blox
+GWNDB0   -139 -87 # Blox
+GWNDC0   -136 -78 # Blox
+GWNDD0   -132 -72 # Blox
